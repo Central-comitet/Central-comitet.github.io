@@ -1,10 +1,2 @@
 # Центральный комитет
 <a href = "https://vk.com/central_comitet1">Группа ВК</a>
-
-<script type="text/javascript" src="https://vk.com/js/api/openapi.js?169"></script>
-
-<!-- VK Widget -->
-<div id="vk_groups"></div>
-<script type="text/javascript">
-VK.Widgets.Group("vk_groups", {mode: 4, wide: 1, height: "400", color3: 'FF0000'}, 208339524);
-</script>
